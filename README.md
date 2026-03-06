@@ -8,7 +8,7 @@ Frontend Developer from Chennai, India. I build performant, maintainable web app
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 
 ## 🚀 Featured Project
 **[Geofy](https://geofy-client.onrender.com/)** — Real-time geofencing platform for automating field agent check-ins using MongoDB 2dsphere indexing and GPS tracking.
