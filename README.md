@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Vijai 👋
 
-<!--
-**vijai-developer14/vijai-developer14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer from Chennai, India. I build performant, maintainable web applications.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+**[Geofy](https://geofy-client.onrender.com/)** — Real-time geofencing platform for automating field agent check-ins using MongoDB 2dsphere indexing and GPS tracking.
+
+## 📫 Contact
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://vijai-web-portfolio.web.app/)
+[![Gmail](https://img.shields.io/badge/-vijaiv383@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vijaiv383@gmail.com)
